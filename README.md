@@ -19,11 +19,10 @@ A premium, highly interactive Expense Tracker application designed to help users
 
 ## Screenshots
 ![Dashboard Overview](./screenshots/dashboard.png)
-*(A look at the premium, animated dashboard)*
+
 
 ## Live Demo
-[Available on Vercel/Netlify (Placeholder)](#)
-
+[https://expence-tracker-virid-two.vercel.app/]
 ## Setup Instructions
 ```bash
 # Install dependencies
